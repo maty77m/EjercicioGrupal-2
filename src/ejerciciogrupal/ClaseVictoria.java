@@ -7,14 +7,8 @@ package ejerciciogrupal;
 
 /**
  *
- * @author ale77
+ * @author EQUIPO 2020
  */
-public class NewClass {
-    private int num = 10;
-    private String hola = "hola";
-    private int random = 123456;
+public class ClaseVictoria {
     
-    public static void sumar(){
-        System.out.println(1+456);
-    }
 }
