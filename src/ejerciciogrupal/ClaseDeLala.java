@@ -7,9 +7,8 @@ package ejerciciogrupal;
 
 /**
  *
- * @author ale77
+ * @author Adriana
  */
-public class NewClass {
-    private int num = 10;
-    private String hola = "hola";
+public class ClaseDeLala {
+    
 }

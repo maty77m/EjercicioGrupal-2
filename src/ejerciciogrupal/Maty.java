@@ -9,7 +9,6 @@ package ejerciciogrupal;
  *
  * @author ale77
  */
-public class NewClass {
-    private int num = 10;
-    private String hola = "hola";
+public class Maty {
+    
 }
