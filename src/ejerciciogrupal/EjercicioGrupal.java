@@ -12,6 +12,7 @@ public class EjercicioGrupal {
         System.out.println("Hola, soy Maty");  
         System.out.println("Hola chiquis, May :) ");
         System.out.println("Hola,Soy Fer");
+        System.out.println("Hola, soy Victoria"); 
     
     }
     
