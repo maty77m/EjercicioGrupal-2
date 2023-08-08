@@ -12,6 +12,7 @@ package ejerciciogrupal;
 public class NewClass {
     private int num = 10;
     private String hola = "hola";
+    
 
     public NewClass() {
     }
@@ -33,5 +34,11 @@ public class NewClass {
         this.hola = hola;
     }
     
+    // Matias
     
+    private int random = 123456;
+    
+    public static void sumar(){
+        System.out.println(1+456);
+    }
 }
