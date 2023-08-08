@@ -12,4 +12,9 @@ package ejerciciogrupal;
 public class NewClass {
     private int num = 10;
     private String hola = "hola";
+    private int random = 123456;
+    
+    public static void sumar(){
+        System.out.println(1+456);
+    }
 }
