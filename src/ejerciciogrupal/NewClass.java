@@ -12,4 +12,26 @@ package ejerciciogrupal;
 public class NewClass {
     private int num = 10;
     private String hola = "hola";
+
+    public NewClass() {
+    }
+    
+
+    public int getNum() {
+        return num;
+    }
+
+    public void setNum(int num) {
+        this.num = num;
+    }
+
+    public String getHola() {
+        return hola;
+    }
+
+    public void setHola(String hola) {
+        this.hola = hola;
+    }
+    
+    
 }
